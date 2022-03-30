@@ -1,6 +1,6 @@
 # python-homework
 
-# Unit 2 | Homework Assignment: Automate Your Day Job with Python
+## Unit 2 | Homework Assignment: Automate Your Day Job with Python
 
 The task is to create a Python script that analyzes the records to calculate each of the following:
 
